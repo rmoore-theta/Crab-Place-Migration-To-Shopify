@@ -1,0 +1,5 @@
+/vendor
+*.code-workspace
+composer.lock
+/config
+config.json
